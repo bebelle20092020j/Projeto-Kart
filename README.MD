@@ -204,3 +204,10 @@ Este projeto ajuda a praticar:
 O **Mario MMO (Terminal Edition)** é um exemplo de como criar um jogo completo usando apenas Node.js e criatividade, explorando mecânicas simples mas divertidas dentro do terminal.
 
 ---
+
+## Feito por
+
+<a href="https://github.com/bebelle20092020j" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Isabelle%20Macedo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Isabelle Macedo">
+</a>
+
